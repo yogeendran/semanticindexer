@@ -4,6 +4,7 @@ Description:-
 The application “OXYGEN” is ontology driven intent indexer for web documents, so that you can find documents based on intent. 
 
 Installation and Running:-
+
 a.Container based running:
 	Install Docker and Docker compose.
 	Give the following commands to run in container
@@ -11,6 +12,7 @@ a.Container based running:
 		2.npm run build
 		3.docker-compose  –f docker-compose-dev.yml build
 		4.docker-compose  –f docker-compose-dev.yml  up
+		
 b.Non-Container based running:
 	Install Neo4j, MongoDb, Redis, and RabbitMq in your machine and start all the servers
 	 Give the following commands to run in container
