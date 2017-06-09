@@ -15,7 +15,7 @@ a.Container based running:
 		
 b.Non-Container based running:
 	Install Neo4j, MongoDb, Redis, and RabbitMq in your machine and start all the servers
-	 Give the following commands to run in container
+	 Give the following commands to run 
 		1.npm install
 		2.npm run build 
 		3.npm run www
