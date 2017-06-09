@@ -42,4 +42,4 @@ Concept: Topic under the domain (polymorphism)
 Sub concept: Subtopic (Virtual Methods)
 Intent: Intention or level of the search (Beginner)
 Term: Word-describing intent in for or against (Introduction)
-Web documents: API from google API’s 
+Web documents: API from google API’s  
