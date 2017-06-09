@@ -1,0 +1,40 @@
+/*
+ * react-circular-progressbar styles
+ *
+ * All of the styles in this file are optional and configurable!
+ */
+.CircularProgressbar .CircularProgressbar-path {
+  stroke: #3e98c7;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+.CircularProgressbar .CircularProgressbar-trail {
+  stroke: #d6d6d6;
+}
+.CircularProgressbar .CircularProgressbar-text {
+  fill: #3e98c7;
+  font-size: 8px;
+  dominant-baseline: middle;
+  text-anchor: middle;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: #009688;
+  stroke-width: 3px;
+}
+
+.node text {
+  color: darkBlack;
+  font: 12px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #009688;
+  stroke-width: 2px;
+}
